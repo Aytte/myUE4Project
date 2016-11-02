@@ -12,3 +12,4 @@ Saved
 *.xcworkspace
 # Binary Files
 Content/StarterContent/*
+Config/*
