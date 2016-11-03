@@ -1,7 +1,5 @@
 Binaries
 DerivedDataCache
-Intermediate
-Saved
 *.VC.db
 *.opensdf
 *.opendb
@@ -13,3 +11,6 @@ Saved
 # Binary Files
 Content/StarterContent/*
 Config/*
+# 
+Intermediate
+Saved
