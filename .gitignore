@@ -10,7 +10,8 @@ DerivedDataCache
 *.xcworkspace
 # Binary Files
 Content/StarterContent/*
-Config/*
-# 
-Intermediate
-Saved
+
+#Config/*
+
+Saved/*
+Intermediate/* 
